@@ -111,13 +111,13 @@ jobs:
           #Set artifact name
           name: artifact
           #From this path
-          path: target/lab2vitrual-0.0.1-SNAPSHOT.jar
-#      - name: Build & push Docker image
-#        uses: mr-smithers-excellent/docker-build-push@v6
-#        with:
-#          image: dbotiaudea/gitlab
-#          tags: latest
-#          registry: docker.io
-#          dockerfile: Dockerfile
-#          username: ${{ secrets.DOCKER_USERNAME }}
+          path: target/lab2-arq-0.0.1-SNAPSHOT.jar
+      - name: Build & push Docker image
+        uses: mr-smithers-excellent/docker-build-push@v6
+        with:
+          image: julianguerra9211/lab2-arq-virtual
+          tags: latest
+          registry: docker.io
+          dockerfile: Dockerfile
+          username: ${{ secrets.DOCKER_USERNAME }}
 #          password: ${{ secrets.DOCKER_PASSWORD }}
