@@ -113,7 +113,7 @@ jobs:
           #Set artifact name
           name: artifact
           #From this path
-          path: target/lab2-arq-0.0.1-SNAPSHOT.jar
+          path: target/lab2virtual-0.0.1-SNAPSHOT.jar
       - name: Build & push Docker image
         uses: mr-smithers-excellent/docker-build-push@v6
         with:
