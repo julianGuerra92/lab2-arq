@@ -1,6 +1,12 @@
 # Laboratorio 2 - Arquitectura de Software
 
 [![CI/CD Pipeline](https://github.com/julianGuerra92/lab2-arq/actions/workflows/build.yml/badge.svg)](https://github.com/julianGuerra92/lab2-arq/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=bugs)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=coverage)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
 
 Implementation of a Simple App with the next operations:
 
