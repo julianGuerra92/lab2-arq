@@ -7,6 +7,7 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=coverage)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=julianGuerra92_lab2-arq&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=julianGuerra92_lab2-arq)
+[![Coverage Status](https://coveralls.io/repos/github/julianGuerra92/lab2-arq/badge.svg?branch=main)](https://coveralls.io/github/julianGuerra92/lab2-arq?branch=main)
 
 Implementation of a Simple App with the next operations:
 
